@@ -5594,7 +5594,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				OTHER_SWIFT_FLAGS = "-D DEBUG -Xfrontend -warn-long-function-bodies=1000";
+				OTHER_SWIFT_FLAGS = "-D DEBUG -Xfrontend -warn-long-function-bodies=1000 -Onone";
 				PRODUCT_NAME = Kickstarter;
 				SDKROOT = iphoneos;
 				STRIP_BITCODE_FROM_COPIED_FILES = NO;
